@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<effect name="Color Shifter" category="Artwo Color">
+	
+	<row name="Red">
+		<field type="color" r="255" g="0" b="0" id="key_color_red"/>
+	</row>
+	<row name="Green">
+		<field type="color" r="0" g="255" b="0" id="key_color_green"/>
+	</row>
+	<row name="Blue">
+		<field type="color" r="0" g="0" b="255" id="key_color_blue"/>
+	</row>
+	<row name="White">
+		<field type="color" r="255" g="255" b="255" id="key_color_white"/>
+	</row>
+	<row name="Black">
+		<field type="color" r="0" g="0" b="0" id="key_color_black"/>
+	</row>
+
+	<shader vert="../COMMON/common.vert" frag="colorshifter.frag"/>
+
+</effect>
