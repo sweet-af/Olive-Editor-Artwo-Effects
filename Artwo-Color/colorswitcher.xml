@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<effect name="Color Shifter" category="Artwo Color">
+<effect name="Color Switcher" category="Artwo Color">
 	
 	<row name="Red">
 		<field type="color" r="255" g="0" b="0" id="key_color_red"/>
@@ -17,6 +17,6 @@
 		<field type="color" r="0" g="0" b="0" id="key_color_black"/>
 	</row>
 
-	<shader vert="../COMMON/common.vert" frag="colorshifter.frag"/>
+	<shader vert="../COMMON/common.vert" frag="colorswitcher.frag"/>
 
 </effect>
