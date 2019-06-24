@@ -28,7 +28,7 @@ means you should download the `COMMON`folder at least once for individual downlo
 
 ### Effect List:
 
-- **Color Switcher** : Simple and weird Color Correction and Calibration effect.
+- **Color Switch** : Simple and weird Color Correction and Calibration effect.
   Example: [![Artwo Color Switcher example](https://i.imgur.com/fUQVmVq.png)](https://youtu.be/jAmpZuvkRYc)
 
 _This is the first of many more to come._
