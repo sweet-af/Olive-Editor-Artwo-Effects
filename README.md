@@ -30,6 +30,8 @@ means you should download the `COMMON`folder at least once for individual downlo
 
 - **Color Switcher** : Simple and weird Color Correction and Calibration effect.
 
+_This is the first of many more to come._
+
 ---
 
 ### I can not manage contributions for now but you can clone this project. Please notice me if you're making other effects.
