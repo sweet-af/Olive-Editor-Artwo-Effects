@@ -24,8 +24,11 @@ Effects that I need for Olive Editor. I was able to create this thanks to the in
 
 ### Effect List:
 
-- **Color Switch** : Simple and weird Color Correction and Calibration effect.
-  Example: [![Artwo Color Switcher example](https://i.imgur.com/fUQVmVq.png)](https://youtu.be/jAmpZuvkRYc)
+- **Color Switch** : Simple and weird Color Correction and Calibration effect.  
+Example:  
+[![Artwo Color Switcher example](https://i.imgur.com/fUQVmVq.png)](https://youtu.be/jAmpZuvkRYc)  
+Screenshot:  
+![Artwo Color Switcher screenshot](https://i.imgur.com/eRU3yuy.png)
 
 _This is the first of many more to come._
 
